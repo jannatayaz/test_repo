@@ -1,4 +1,7 @@
 # test_repo
-## read me file
-* this is the first line of readme file
-* this is the 2nd line of readme file
+## steps of pushing file on `git repo` : from local machine
+
+* git status
+* git add .
+* git commit -m "message"
+* git push
